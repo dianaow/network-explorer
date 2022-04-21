@@ -1,0 +1,1537 @@
+[
+  {
+     "source": "Aegon Targaryen", 
+     "target": "Elia Martell", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Aegon Targaryen", 
+     "target": "Rhaegar Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Aegon Targaryen", 
+     "target": "Rhaenys Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Aegon Targaryen", 
+     "target": "Jon Snow", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Aeron Greyjoy", 
+     "target": "Balon Greyjoy", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Aeron Greyjoy", 
+     "target": "Euron Greyjoy", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Aerys II Targaryen", 
+     "target": "Brandon Stark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Aerys II Targaryen", 
+     "target": "Rickard Stark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Aerys II Targaryen", 
+     "target": "Rhaella Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Aerys II Targaryen", 
+     "target": "Rhaella Targaryen", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Alliser Thorne", 
+     "target": "Jon Snow", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arthur Dayne", 
+     "target": "Aerys II Targaryen", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Robb Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Sansa Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Bran Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Rickon Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Red Keep Stableboy", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Frey Soldier #1", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Polliver", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Rorge", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Ghita", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Meryn Trant", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "The Waif", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Black Walder Rivers", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Lothar Frey", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Walder Frey", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Petyr Baelish", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "The Night King", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "White Walker", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Viserion", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Arya Stark", 
+     "target": "Catelyn Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Balon Greyjoy", 
+     "target": "Euron Greyjoy", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Balon Greyjoy", 
+     "target": "Aeron Greyjoy", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Barristan Selmy", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Benjen Stark", 
+     "target": "Rickard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Benjen Stark", 
+     "target": "Brandon Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Benjen Stark", 
+     "target": "Lyanna Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Benjen Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Black Walder Rivers", 
+     "target": "Catelyn Stark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Bowen Marsh", 
+     "target": "Jon Snow", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Brandon Stark", 
+     "target": "Rickard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Brandon Stark", 
+     "target": "Lyanna Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Brandon Stark", 
+     "target": "Benjen Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Brandon Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Bran Stark", 
+     "target": "Robb Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Bran Stark", 
+     "target": "Sansa Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Bran Stark", 
+     "target": "Arya Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Bran Stark", 
+     "target": "Rickon Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Bran Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Bran Stark", 
+     "target": "Catelyn Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Brienne of Tarth", 
+     "target": "Stannis Baratheon", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Brienne of Tarth", 
+     "target": "Renly Baratheon", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Brienne of Tarth", 
+     "target": "Catelyn Stark", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Brienne of Tarth", 
+     "target": "Sansa Stark", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Brienne of Tarth", 
+     "target": "Bran Stark", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Catelyn Stark", 
+     "target": "Tully", 
+     "relationship": "houseName"
+  }, 
+  {
+     "source": "Catelyn Stark", 
+     "target": "Joyeuse Erenford", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Catelyn Stark", 
+     "target": "Hoster Tully", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Catelyn Stark", 
+     "target": "Lysa Arryn", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Catelyn Stark", 
+     "target": "Edmure Tully", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Catelyn Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Catelyn Stark", 
+     "target": "Brandon Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Tywin Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Jaime Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Tyrion Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Robert Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Lancel Lannister", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "High Sparrow", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Loras Tyrell", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Mace Tyrell", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Margaery Tyrell", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Kevan Lannister", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Cersei Lannister", 
+     "target": "Tyene Sand", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daario Naharis", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Aerys II Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Rhaella Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Rhaegar Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Viserys Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Khal Drogo", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Mirri Maz Duur", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Doreah", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Xaro Xhoan Daxos", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Khal Rhalko", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Khal Brozho", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Khal Qorro", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Khal Forzho", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Khal Moro", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Dothraki Bloodrider #1", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Dothraki Bloodrider #2", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Randyll Tarly", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Dickon Tarly", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Eleanor", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Eleanor's Daughter", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Lord Varys", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Daenerys Targaryen", 
+     "target": "Khal Drogo", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Davos Seaworth", 
+     "target": "Stannis Baratheon", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Davos Seaworth", 
+     "target": "Jon Snow", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Brandon Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Benjen Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Lyanna Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Rickard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Arthur Dayne", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Will", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Lady", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Gerold Hightower", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Howland Reed", 
+     "relationship": "allies"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Robert Baratheon", 
+     "relationship": "allies"
+  }, 
+  {
+     "source": "Eddard Stark", 
+     "target": "Catelyn Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Edmure Tully", 
+     "target": "Catelyn Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Ellaria Sand", 
+     "target": "Myrcella Baratheon", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Elia Martell", 
+     "target": "Rhaegar Targaryen", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Euron Greyjoy", 
+     "target": "Balon Greyjoy", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Euron Greyjoy", 
+     "target": "Obara Sand", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Euron Greyjoy", 
+     "target": "Nymeria Sand", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Euron Greyjoy", 
+     "target": "Rhaegal", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Euron Greyjoy", 
+     "target": "Balon Greyjoy", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Euron Greyjoy", 
+     "target": "Aeron Greyjoy", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Gendry", 
+     "target": "Robert Baratheon", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Gregor Clegane", 
+     "target": "Tywin Lannister", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Gregor Clegane", 
+     "target": "Cersei Lannister", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Gregor Clegane", 
+     "target": "Rhaenys Targaryen", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Gregor Clegane", 
+     "target": "Aegon Targaryen", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Grey Worm", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Howland Reed", 
+     "target": "Eddard Stark", 
+     "relationship": "allies"
+  }, 
+  {
+     "source": "Ilyn Payne", 
+     "target": "Eddard Stark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Tywin Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Aerys II Targaryen", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Jory Cassel", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Alton Lannister", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Torrhen Karstark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Olenna Tyrell", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Euron Greyjoy", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Cersei Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Jaime Lannister", 
+     "target": "Tyrion Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Joffrey Baratheon", 
+     "target": "Robert Baratheon", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Joffrey Baratheon", 
+     "target": "Cersei Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Joffrey Baratheon", 
+     "target": "Jaime Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Joffrey Baratheon", 
+     "target": "Myrcella Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Joffrey Baratheon", 
+     "target": "Tommen Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Joffrey Baratheon", 
+     "target": "Sansa Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Joffrey Baratheon", 
+     "target": "Margaery Tyrell", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Joffrey Baratheon", 
+     "target": "Ros", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Arryn", 
+     "target": "Robert Baratheon", 
+     "relationship": "allies"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Stark", 
+     "relationship": "houseName"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Rhaegar Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Lyanna Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Othor", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Qhorin Halfhand", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Orell", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Karl Tanner", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Styr", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Mance Rayder", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Janos Slynt", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "White Walker", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Alliser Thorne", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Othell Yarwyck", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Bowen Marsh", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Olly", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Lyanna Stark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Jon Snow", 
+     "target": "Ygritte", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Jorah Mormont", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Jory Cassel", 
+     "target": "Eddard Stark", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Kevan Lannister", 
+     "target": "Tywin Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Khal Drogo", 
+     "target": "Viserys Targaryen", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Khal Drogo", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Lancel Lannister", 
+     "target": "Kevan Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Lancel Lannister", 
+     "target": "Martyn Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Lancel Lannister", 
+     "target": "Willem Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Lyanna Stark", 
+     "target": "Rickard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Lyanna Stark", 
+     "target": "Brandon Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Lyanna Stark", 
+     "target": "Benjen Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Lyanna Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Lyanna Stark", 
+     "target": "Robert Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Lyanna Stark", 
+     "target": "Rhaegar Targaryen", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Margaery Tyrell", 
+     "target": "Renly Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Margaery Tyrell", 
+     "target": "Joffrey Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Margaery Tyrell", 
+     "target": "Tommen Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Martyn Lannister", 
+     "target": "Kevan Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Martyn Lannister", 
+     "target": "Lancel Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Martyn Lannister", 
+     "target": "Willem Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Melisandre", 
+     "target": "Renly Baratheon", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Melisandre", 
+     "target": "Shireen Baratheon", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Missandei", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Myrcella Baratheon", 
+     "target": "Robert Baratheon", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Myrcella Baratheon", 
+     "target": "Cersei Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Myrcella Baratheon", 
+     "target": "Jaime Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Myrcella Baratheon", 
+     "target": "Joffrey Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Myrcella Baratheon", 
+     "target": "Tommen Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Myrcella Baratheon", 
+     "target": "Trystane Martell", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Olenna Tyrell", 
+     "target": "Joffrey Baratheon", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Olly", 
+     "target": "Jon Snow", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Othell Yarwyck", 
+     "target": "Jon Snow", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Petyr Baelish", 
+     "target": "Joffrey Baratheon", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Podrick Payne", 
+     "target": "Tyrion Lannister", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Podrick Payne", 
+     "target": "Bran Stark", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Qyburn", 
+     "target": "Cersei Lannister", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Master Torturer", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Medger Cerwyn", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Lady Cerwyn", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Unidentified Cerwyn", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Old Woman", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Roose Bolton", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Osha", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Rickon Stark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Wun Wun", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Sansa Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Ramsay Snow", 
+     "target": "Roose Bolton", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Renly Baratheon", 
+     "target": "Robert Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Renly Baratheon", 
+     "target": "Stannis Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Renly Baratheon", 
+     "target": "Margaery Tyrell", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Rhaegar Targaryen", 
+     "target": "Rhaella Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Rhaegar Targaryen", 
+     "target": "Aerys II Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Rhaegar Targaryen", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Rhaegar Targaryen", 
+     "target": "Viserys Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Rhaegar Targaryen", 
+     "target": "Elia Martell", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Rhaegar Targaryen", 
+     "target": "Lyanna Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Rhaego", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Rhaella Targaryen", 
+     "target": "Aerys II Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Rhaella Targaryen", 
+     "target": "Aerys II Targaryen", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Rhaenys Targaryen", 
+     "target": "Elia Martell", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Rhaenys Targaryen", 
+     "target": "Rhaegar Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Rhaenys Targaryen", 
+     "target": "Aegon Targaryen", 
+     "relationship": "sibling"
+  }, 
+  {
+     "source": "Rhaenys Targaryen", 
+     "target": "Jon Snow", 
+     "relationship": "sibling"
+  }, 
+  {
+     "source": "Rickard Karstark", 
+     "target": "Martyn Lannister", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Rickard Karstark", 
+     "target": "Willem Lannister", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Rickon Stark", 
+     "target": "Robb Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Rickon Stark", 
+     "target": "Sansa Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Rickon Stark", 
+     "target": "Arya Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Rickon Stark", 
+     "target": "Bran Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Rickon Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Rickon Stark", 
+     "target": "Catelyn Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Sansa Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Arya Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Bran Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Rickon Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Wallen", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Rickard Karstark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Roslin Frey", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Talisa Maegyr", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Robb Stark", 
+     "target": "Catelyn Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Robert Baratheon", 
+     "target": "Lyanna Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Robert Baratheon", 
+     "target": "Cersei Lannister", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Robert Baratheon", 
+     "target": "Jon Arryn", 
+     "relationship": "allies"
+  }, 
+  {
+     "source": "Robert Baratheon", 
+     "target": "Eddard Stark", 
+     "relationship": "allies"
+  }, 
+  {
+     "source": "Robert Baratheon", 
+     "target": "Tywin Lannister", 
+     "relationship": "allies"
+  }, 
+  {
+     "source": "Robert Baratheon", 
+     "target": "Rhaegar Targaryen", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Robert Baratheon", 
+     "target": "Stannis Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Robert Baratheon", 
+     "target": "Renly Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Rodrik Cassel", 
+     "target": "Eddard Stark", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Roose Bolton", 
+     "target": "Robb Stark", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Roslin Frey", 
+     "target": "Robb Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Robb Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Arya Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Bran Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Rickon Stark", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Joffrey Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Tyrion Lannister", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Ramsay Snow", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Eddard Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Sansa Stark", 
+     "target": "Catelyn Stark", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Selyse Baratheon", 
+     "target": "Selyse Baratheon", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Selyse Baratheon", 
+     "target": "Stannis Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Shireen Baratheon", 
+     "target": "Stannis Baratheon", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Shireen Baratheon", 
+     "target": "Selyse Baratheon", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Stannis Baratheon", 
+     "target": "Robert Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Stannis Baratheon", 
+     "target": "Renly Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Stannis Baratheon", 
+     "target": "Gordy", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Stannis Baratheon", 
+     "target": "Simpson", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Stannis Baratheon", 
+     "target": "Selyse Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Talisa Maegyr", 
+     "target": "Robb Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "The Night King", 
+     "target": "Theon Greyjoy", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Theon Greyjoy", 
+     "target": "Stiv", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Theon Greyjoy", 
+     "target": "Rodrik Cassel", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Theon Greyjoy", 
+     "target": "Myranda", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Theon Greyjoy", 
+     "target": "Bolton Soldier", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Theon Greyjoy", 
+     "target": "Harrag", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Theon Greyjoy", 
+     "target": "Yara Greyjoy", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Theon Greyjoy", 
+     "target": "Balon Greyjoy", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Tommen Baratheon", 
+     "target": "Robert Baratheon", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Tommen Baratheon", 
+     "target": "Cersei Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Tommen Baratheon", 
+     "target": "Jaime Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Tommen Baratheon", 
+     "target": "Joffrey Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Tommen Baratheon", 
+     "target": "Myrcella Baratheon", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Tommen Baratheon", 
+     "target": "Margaery Tyrell", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Tommen Baratheon", 
+     "target": "Tommen Baratheon", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Trystane Martell", 
+     "target": "Myrcella Baratheon", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Tyrion Lannister", 
+     "target": "Sansa Stark", 
+     "relationship": "marriedEngaged"
+  }, 
+  {
+     "source": "Tyrion Lannister", 
+     "target": "Shae", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Tyrion Lannister", 
+     "target": "Tywin Lannister", 
+     "relationship": "killed"
+  }, 
+  {
+     "source": "Tyrion Lannister", 
+     "target": "Tywin Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Tyrion Lannister", 
+     "target": "Cersei Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Tyrion Lannister", 
+     "target": "Jaime Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Tyrion Lannister", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "serves"
+  }, 
+  {
+     "source": "Tywin Lannister", 
+     "target": "Robert Baratheon", 
+     "relationship": "allies"
+  }, 
+  {
+     "source": "Viserys Targaryen", 
+     "target": "Rhaella Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Viserys Targaryen", 
+     "target": "Aerys II Targaryen", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Viserys Targaryen", 
+     "target": "Daenerys Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Viserys Targaryen", 
+     "target": "Rhaegar Targaryen", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Willem Lannister", 
+     "target": "Kevan Lannister", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Willem Lannister", 
+     "target": "Lancel Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Willem Lannister", 
+     "target": "Martyn Lannister", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Yara Greyjoy", 
+     "target": "Balon Greyjoy", 
+     "relationship": "parents"
+  }, 
+  {
+     "source": "Yara Greyjoy", 
+     "target": "Theon Greyjoy", 
+     "relationship": "siblings"
+  }, 
+  {
+     "source": "Ygritte", 
+     "target": "Jon Snow", 
+     "relationship": "marriedEngaged"
+  }
+]

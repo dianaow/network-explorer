@@ -1,0 +1,872 @@
+[
+      {
+         "group": 4, 
+         "id": "Joffrey Baratheon", 
+         "value": 8, 
+         "name": "Joffrey Baratheon"
+      }, 
+      {
+         "group": 2, 
+         "id": "Benjen Stark", 
+         "value": 4, 
+         "name": "Benjen Stark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Petyr Baelish", 
+         "value": 1, 
+         "name": "Petyr Baelish"
+      }, 
+      {
+         "group": 7, 
+         "id": "Jon Arryn", 
+         "value": 1, 
+         "name": "Jon Arryn"
+      }, 
+      {
+         "group": 4, 
+         "id": "Robert Baratheon", 
+         "value": 8, 
+         "name": "Robert Baratheon"
+      }, 
+      {
+         "group": 3, 
+         "id": "Willem Lannister", 
+         "value": 3, 
+         "name": "Willem Lannister"
+      }, 
+      {
+         "group": 7, 
+         "id": "Tyene Sand", 
+         "value": 1, 
+         "name": "Tyene Sand"
+      }, 
+      {
+         "group": 3, 
+         "id": "Jaime Lannister", 
+         "value": 9, 
+         "name": "Jaime Lannister"
+      }, 
+      {
+         "group": 7, 
+         "id": "Othor", 
+         "value": 1, 
+         "name": "Othor"
+      }, 
+      {
+         "group": 7, 
+         "id": "Lord Varys", 
+         "value": 1, 
+         "name": "Lord Varys"
+      }, 
+      {
+         "group": 5, 
+         "id": "Theon Greyjoy", 
+         "value": 7, 
+         "name": "Theon Greyjoy"
+      }, 
+      {
+         "group": 5, 
+         "id": "Aeron Greyjoy", 
+         "value": 2, 
+         "name": "Aeron Greyjoy"
+      }, 
+      {
+         "group": 7, 
+         "id": "Khal Forzho", 
+         "value": 1, 
+         "name": "Khal Forzho"
+      }, 
+      {
+         "group": 7, 
+         "id": "Master Torturer", 
+         "value": 1, 
+         "name": "Master Torturer"
+      }, 
+      {
+         "group": 1, 
+         "id": "Aerys II Targaryen", 
+         "value": 4, 
+         "name": "Aerys II Targaryen"
+      }, 
+      {
+         "group": 7, 
+         "id": "Davos Seaworth", 
+         "value": 2, 
+         "name": "Davos Seaworth"
+      }, 
+      {
+         "group": 7, 
+         "id": "Rhaego", 
+         "value": 1, 
+         "name": "Rhaego"
+      }, 
+      {
+         "group": 7, 
+         "id": "Harrag", 
+         "value": 1, 
+         "name": "Harrag"
+      }, 
+      {
+         "group": 7, 
+         "id": "Unidentified Cerwyn", 
+         "value": 1, 
+         "name": "Unidentified Cerwyn"
+      }, 
+      {
+         "group": 7, 
+         "id": "Khal Moro", 
+         "value": 1, 
+         "name": "Khal Moro"
+      }, 
+      {
+         "group": 7, 
+         "id": "Polliver", 
+         "value": 1, 
+         "name": "Polliver"
+      }, 
+      {
+         "group": 7, 
+         "id": "Eleanor", 
+         "value": 1, 
+         "name": "Eleanor"
+      }, 
+      {
+         "group": 7, 
+         "id": "Meryn Trant", 
+         "value": 1, 
+         "name": "Meryn Trant"
+      }, 
+      {
+         "group": 7, 
+         "id": "Elia Martell", 
+         "value": 1, 
+         "name": "Elia Martell"
+      }, 
+      {
+         "group": 7, 
+         "id": "Podrick Payne", 
+         "value": 2, 
+         "name": "Podrick Payne"
+      }, 
+      {
+         "group": 7, 
+         "id": "Jorah Mormont", 
+         "value": 1, 
+         "name": "Jorah Mormont"
+      }, 
+      {
+         "group": 7, 
+         "id": "Melisandre", 
+         "value": 2, 
+         "name": "Melisandre"
+      }, 
+      {
+         "group": 7, 
+         "id": "Olly", 
+         "value": 1, 
+         "name": "Olly"
+      }, 
+      {
+         "group": 7, 
+         "id": "Xaro Xhoan Daxos", 
+         "value": 1, 
+         "name": "Xaro Xhoan Daxos"
+      }, 
+      {
+         "group": 2, 
+         "id": "Robb Stark", 
+         "value": 10, 
+         "name": "Robb Stark"
+      }, 
+      {
+         "group": 4, 
+         "id": "Renly Baratheon", 
+         "value": 3, 
+         "name": "Renly Baratheon"
+      }, 
+      {
+         "group": 4, 
+         "id": "Myrcella Baratheon", 
+         "value": 6, 
+         "name": "Myrcella Baratheon"
+      }, 
+      {
+         "group": 5, 
+         "id": "Yara Greyjoy", 
+         "value": 2, 
+         "name": "Yara Greyjoy"
+      }, 
+      {
+         "group": 4, 
+         "id": "Shireen Baratheon", 
+         "value": 2, 
+         "name": "Shireen Baratheon"
+      }, 
+      {
+         "group": 7, 
+         "id": "Rorge", 
+         "value": 1, 
+         "name": "Rorge"
+      }, 
+      {
+         "group": 7, 
+         "id": "Gordy", 
+         "value": 1, 
+         "name": "Gordy"
+      }, 
+      {
+         "group": 7, 
+         "id": "Grey Worm", 
+         "value": 1, 
+         "name": "Grey Worm"
+      }, 
+      {
+         "group": 7, 
+         "id": "Stiv", 
+         "value": 1, 
+         "name": "Stiv"
+      }, 
+      {
+         "group": 7, 
+         "id": "The Night King", 
+         "value": 1, 
+         "name": "The Night King"
+      }, 
+      {
+         "group": 3, 
+         "id": "Tyrion Lannister", 
+         "value": 7, 
+         "name": "Tyrion Lannister"
+      }, 
+      {
+         "group": 7, 
+         "id": "Tully", 
+         "value": 1, 
+         "name": "Tully"
+      }, 
+      {
+         "group": 4, 
+         "id": "Tommen Baratheon", 
+         "value": 7, 
+         "name": "Tommen Baratheon"
+      }, 
+      {
+         "group": 7, 
+         "id": "Ghita", 
+         "value": 1, 
+         "name": "Ghita"
+      }, 
+      {
+         "group": 2, 
+         "id": "Bran Stark", 
+         "value": 6, 
+         "name": "Bran Stark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Khal Rhalko", 
+         "value": 1, 
+         "name": "Khal Rhalko"
+      }, 
+      {
+         "group": 7, 
+         "id": "Howland Reed", 
+         "value": 1, 
+         "name": "Howland Reed"
+      }, 
+      {
+         "group": 1, 
+         "id": "Aegon Targaryen", 
+         "value": 4, 
+         "name": "Aegon Targaryen"
+      }, 
+      {
+         "group": 7, 
+         "id": "Othell Yarwyck", 
+         "value": 1, 
+         "name": "Othell Yarwyck"
+      }, 
+      {
+         "group": 7, 
+         "id": "Alliser Thorne", 
+         "value": 1, 
+         "name": "Alliser Thorne"
+      }, 
+      {
+         "group": 2, 
+         "id": "Catelyn Stark", 
+         "value": 7, 
+         "name": "Catelyn Stark"
+      }, 
+      {
+         "group": 3, 
+         "id": "Martyn Lannister", 
+         "value": 3, 
+         "name": "Martyn Lannister"
+      }, 
+      {
+         "group": 7, 
+         "id": "Wun Wun", 
+         "value": 1, 
+         "name": "Wun Wun"
+      }, 
+      {
+         "group": 1, 
+         "id": "Viserys Targaryen", 
+         "value": 4, 
+         "name": "Viserys Targaryen"
+      }, 
+      {
+         "group": 7, 
+         "id": "Black Walder Rivers", 
+         "value": 1, 
+         "name": "Black Walder Rivers"
+      }, 
+      {
+         "group": 4, 
+         "id": "Stannis Baratheon", 
+         "value": 5, 
+         "name": "Stannis Baratheon"
+      }, 
+      {
+         "group": 1, 
+         "id": "Rhaella Targaryen", 
+         "value": 2, 
+         "name": "Rhaella Targaryen"
+      }, 
+      {
+         "group": 6, 
+         "id": "Ramsay Snow", 
+         "value": 11, 
+         "name": "Ramsay Snow"
+      }, 
+      {
+         "group": 7, 
+         "id": "Eleanor's Daughter", 
+         "value": 1, 
+         "name": "Eleanor's Daughter"
+      }, 
+      {
+         "group": 7, 
+         "id": "Nymeria Sand", 
+         "value": 1, 
+         "name": "Nymeria Sand"
+      }, 
+      {
+         "group": 7, 
+         "id": "Old Woman", 
+         "value": 1, 
+         "name": "Old Woman"
+      }, 
+      {
+         "group": 7, 
+         "id": "The Waif", 
+         "value": 1, 
+         "name": "The Waif"
+      }, 
+      {
+         "group": 3, 
+         "id": "Cersei Lannister", 
+         "value": 11, 
+         "name": "Cersei Lannister"
+      }, 
+      {
+         "group": 7, 
+         "id": "Rickard Karstark", 
+         "value": 2, 
+         "name": "Rickard Karstark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Qyburn", 
+         "value": 1, 
+         "name": "Qyburn"
+      }, 
+      {
+         "group": 7, 
+         "id": "Gerold Hightower", 
+         "value": 1, 
+         "name": "Gerold Hightower"
+      }, 
+      {
+         "group": 6, 
+         "id": "Jon Snow", 
+         "value": 18, 
+         "name": "Jon Snow"
+      }, 
+      {
+         "group": 7, 
+         "id": "Mance Rayder", 
+         "value": 1, 
+         "name": "Mance Rayder"
+      }, 
+      {
+         "group": 7, 
+         "id": "Brienne of Tarth", 
+         "value": 5, 
+         "name": "Brienne of Tarth"
+      }, 
+      {
+         "group": 7, 
+         "id": "Khal Brozho", 
+         "value": 1, 
+         "name": "Khal Brozho"
+      }, 
+      {
+         "group": 2, 
+         "id": "Stark", 
+         "value": 1, 
+         "name": "Stark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Qhorin Halfhand", 
+         "value": 1, 
+         "name": "Qhorin Halfhand"
+      }, 
+      {
+         "group": 7, 
+         "id": "Lothar Frey", 
+         "value": 1, 
+         "name": "Lothar Frey"
+      }, 
+      {
+         "group": 7, 
+         "id": "Joyeuse Erenford", 
+         "value": 1, 
+         "name": "Joyeuse Erenford"
+      }, 
+      {
+         "group": 7, 
+         "id": "Janos Slynt", 
+         "value": 1, 
+         "name": "Janos Slynt"
+      }, 
+      {
+         "group": 7, 
+         "id": "Shae", 
+         "value": 1, 
+         "name": "Shae"
+      }, 
+      {
+         "group": 7, 
+         "id": "High Sparrow", 
+         "value": 1, 
+         "name": "High Sparrow"
+      }, 
+      {
+         "group": 7, 
+         "id": "Olenna Tyrell", 
+         "value": 1, 
+         "name": "Olenna Tyrell"
+      }, 
+      {
+         "group": 3, 
+         "id": "Alton Lannister", 
+         "value": 1, 
+         "name": "Alton Lannister"
+      }, 
+      {
+         "group": 1, 
+         "id": "Rhaenys Targaryen", 
+         "value": 4, 
+         "name": "Rhaenys Targaryen"
+      }, 
+      {
+         "group": 7, 
+         "id": "Ros", 
+         "value": 1, 
+         "name": "Ros"
+      }, 
+      {
+         "group": 7, 
+         "id": "Osha", 
+         "value": 1, 
+         "name": "Osha"
+      }, 
+      {
+         "group": 3, 
+         "id": "Tywin Lannister", 
+         "value": 1, 
+         "name": "Tywin Lannister"
+      }, 
+      {
+         "group": 7, 
+         "id": "Karl Tanner", 
+         "value": 1, 
+         "name": "Karl Tanner"
+      }, 
+      {
+         "group": 7, 
+         "id": "Frey Soldier #1", 
+         "value": 1, 
+         "name": "Frey Soldier #1"
+      }, 
+      {
+         "group": 7, 
+         "id": "Walder Frey", 
+         "value": 1, 
+         "name": "Walder Frey"
+      }, 
+      {
+         "group": 7, 
+         "id": "Mace Tyrell", 
+         "value": 1, 
+         "name": "Mace Tyrell"
+      }, 
+      {
+         "group": 7, 
+         "id": "Gregor Clegane", 
+         "value": 4, 
+         "name": "Gregor Clegane"
+      }, 
+      {
+         "group": 7, 
+         "id": "Arthur Dayne", 
+         "value": 1, 
+         "name": "Arthur Dayne"
+      }, 
+      {
+         "group": 7, 
+         "id": "Roslin Frey", 
+         "value": 1, 
+         "name": "Roslin Frey"
+      }, 
+      {
+         "group": 7, 
+         "id": "Dothraki Bloodrider #2", 
+         "value": 1, 
+         "name": "Dothraki Bloodrider #2"
+      }, 
+      {
+         "group": 7, 
+         "id": "Dothraki Bloodrider #1", 
+         "value": 1, 
+         "name": "Dothraki Bloodrider #1"
+      }, 
+      {
+         "group": 7, 
+         "id": "Khal Drogo", 
+         "value": 2, 
+         "name": "Khal Drogo"
+      }, 
+      {
+         "group": 7, 
+         "id": "Lysa Arryn", 
+         "value": 1, 
+         "name": "Lysa Arryn"
+      }, 
+      {
+         "group": 2, 
+         "id": "Brandon Stark", 
+         "value": 4, 
+         "name": "Brandon Stark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Mirri Maz Duur", 
+         "value": 1, 
+         "name": "Mirri Maz Duur"
+      }, 
+      {
+         "group": 7, 
+         "id": "Doreah", 
+         "value": 1, 
+         "name": "Doreah"
+      }, 
+      {
+         "group": 2, 
+         "id": "Sansa Stark", 
+         "value": 9, 
+         "name": "Sansa Stark"
+      }, 
+      {
+         "group": 2, 
+         "id": "Lyanna Stark", 
+         "value": 6, 
+         "name": "Lyanna Stark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Daario Naharis", 
+         "value": 1, 
+         "name": "Daario Naharis"
+      }, 
+      {
+         "group": 7, 
+         "id": "Barristan Selmy", 
+         "value": 1, 
+         "name": "Barristan Selmy"
+      }, 
+      {
+         "group": 7, 
+         "id": "Viserion", 
+         "value": 1, 
+         "name": "Viserion"
+      }, 
+      {
+         "group": 1, 
+         "id": "Daenerys Targaryen", 
+         "value": 21, 
+         "name": "Daenerys Targaryen"
+      }, 
+      {
+         "group": 4, 
+         "id": "Selyse Baratheon", 
+         "value": 2, 
+         "name": "Selyse Baratheon"
+      }, 
+      {
+         "group": 7, 
+         "id": "Edmure Tully", 
+         "value": 1, 
+         "name": "Edmure Tully"
+      }, 
+      {
+         "group": 7, 
+         "id": "Ellaria Sand", 
+         "value": 1, 
+         "name": "Ellaria Sand"
+      }, 
+      {
+         "group": 5, 
+         "id": "Euron Greyjoy", 
+         "value": 6, 
+         "name": "Euron Greyjoy"
+      }, 
+      {
+         "group": 7, 
+         "id": "White Walker", 
+         "value": 1, 
+         "name": "White Walker"
+      }, 
+      {
+         "group": 7, 
+         "id": "Hoster Tully", 
+         "value": 1, 
+         "name": "Hoster Tully"
+      }, 
+      {
+         "group": 7, 
+         "id": "Ygritte", 
+         "value": 1, 
+         "name": "Ygritte"
+      }, 
+      {
+         "group": 7, 
+         "id": "Torrhen Karstark", 
+         "value": 1, 
+         "name": "Torrhen Karstark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Bolton Soldier", 
+         "value": 1, 
+         "name": "Bolton Soldier"
+      }, 
+      {
+         "group": 7, 
+         "id": "Medger Cerwyn", 
+         "value": 1, 
+         "name": "Medger Cerwyn"
+      }, 
+      {
+         "group": 7, 
+         "id": "Talisa Maegyr", 
+         "value": 1, 
+         "name": "Talisa Maegyr"
+      }, 
+      {
+         "group": 7, 
+         "id": "Orell", 
+         "value": 1, 
+         "name": "Orell"
+      }, 
+      {
+         "group": 7, 
+         "id": "Myranda", 
+         "value": 1, 
+         "name": "Myranda"
+      }, 
+      {
+         "group": 2, 
+         "id": "Rickard Stark", 
+         "value": 1, 
+         "name": "Rickard Stark"
+      }, 
+      {
+         "group": 2, 
+         "id": "Eddard Stark", 
+         "value": 11, 
+         "name": "Eddard Stark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Dickon Tarly", 
+         "value": 1, 
+         "name": "Dickon Tarly"
+      }, 
+      {
+         "group": 2, 
+         "id": "Rickon Stark", 
+         "value": 6, 
+         "name": "Rickon Stark"
+      }, 
+      {
+         "group": 1, 
+         "id": "Rhaegar Targaryen", 
+         "value": 6, 
+         "name": "Rhaegar Targaryen"
+      }, 
+      {
+         "group": 2, 
+         "id": "Arya Stark", 
+         "value": 20, 
+         "name": "Arya Stark"
+      }, 
+      {
+         "group": 7, 
+         "id": "Margaery Tyrell", 
+         "value": 3, 
+         "name": "Margaery Tyrell"
+      }, 
+      {
+         "group": 7, 
+         "id": "Lady", 
+         "value": 1, 
+         "name": "Lady"
+      }, 
+      {
+         "group": 7, 
+         "id": "Obara Sand", 
+         "value": 1, 
+         "name": "Obara Sand"
+      }, 
+      {
+         "group": 7, 
+         "id": "Gendry", 
+         "value": 1, 
+         "name": "Gendry"
+      }, 
+      {
+         "group": 7, 
+         "id": "Wallen", 
+         "value": 1, 
+         "name": "Wallen"
+      }, 
+      {
+         "group": 7, 
+         "id": "Lady Cerwyn", 
+         "value": 1, 
+         "name": "Lady Cerwyn"
+      }, 
+      {
+         "group": 7, 
+         "id": "Will", 
+         "value": 1, 
+         "name": "Will"
+      }, 
+      {
+         "group": 7, 
+         "id": "Rodrik Cassel", 
+         "value": 1, 
+         "name": "Rodrik Cassel"
+      }, 
+      {
+         "group": 7, 
+         "id": "Roose Bolton", 
+         "value": 1, 
+         "name": "Roose Bolton"
+      }, 
+      {
+         "group": 7, 
+         "id": "Red Keep Stableboy", 
+         "value": 1, 
+         "name": "Red Keep Stableboy"
+      }, 
+      {
+         "group": 7, 
+         "id": "Ilyn Payne", 
+         "value": 1, 
+         "name": "Ilyn Payne"
+      }, 
+      {
+         "group": 7, 
+         "id": "Missandei", 
+         "value": 1, 
+         "name": "Missandei"
+      }, 
+      {
+         "group": 7, 
+         "id": "Simpson", 
+         "value": 1, 
+         "name": "Simpson"
+      }, 
+      {
+         "group": 7, 
+         "id": "Rhaegal", 
+         "value": 1, 
+         "name": "Rhaegal"
+      }, 
+      {
+         "group": 3, 
+         "id": "Lancel Lannister", 
+         "value": 3, 
+         "name": "Lancel Lannister"
+      }, 
+      {
+         "group": 7, 
+         "id": "Loras Tyrell", 
+         "value": 1, 
+         "name": "Loras Tyrell"
+      }, 
+      {
+         "group": 7, 
+         "id": "Styr", 
+         "value": 1, 
+         "name": "Styr"
+      }, 
+      {
+         "group": 7, 
+         "id": "Trystane Martell", 
+         "value": 1, 
+         "name": "Trystane Martell"
+      }, 
+      {
+         "group": 7, 
+         "id": "Khal Qorro", 
+         "value": 1, 
+         "name": "Khal Qorro"
+      }, 
+      {
+         "group": 3, 
+         "id": "Kevan Lannister", 
+         "value": 1, 
+         "name": "Kevan Lannister"
+      }, 
+      {
+         "group": 7, 
+         "id": "Bowen Marsh", 
+         "value": 1, 
+         "name": "Bowen Marsh"
+      }, 
+      {
+         "group": 7, 
+         "id": "Jory Cassel", 
+         "value": 1, 
+         "name": "Jory Cassel"
+      }, 
+      {
+         "group": 5, 
+         "id": "Balon Greyjoy", 
+         "value": 2, 
+         "name": "Balon Greyjoy"
+      }, 
+      {
+         "group": 7, 
+         "id": "Randyll Tarly", 
+         "value": 1, 
+         "name": "Randyll Tarly"
+      }
+   ]

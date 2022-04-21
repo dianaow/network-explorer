@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+p {
+  margin: 0px;
+  font-size: 9px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#graphin-container {
+  height: 84%;
+}
+
+.graphin-core {
+  height: 100%;
+
+}
+
+.graphin-components-legend {
+  width: 25%;
+}
+
+#legend-edge-color{
+  width: 25%;
+  position: absolute;
+  top: 30px;
+  right: 0px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.LoadingPage {
+  position: absolute;
+  top: 70px;
+  left: 0px;
+  background-color: white;
+  opacity: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 75vh;
+  visibility: visible;
+  z-index: 2;
+}
+
+.svg-axis-y line{
+  stroke: '#d3d3d3';
+}
+
+.svg-axis-y path{
+  stroke: '#d3d3d3';
+}
+
+.svg-axis-y text{
+  fill: '#d3d3d3';
+}  
+  
+#form-bar {
+  padding: 20px;
+  width: 80%;
+}
+
+.reset-btn {
+  float: left;
+}
