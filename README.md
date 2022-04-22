@@ -12,6 +12,18 @@ Network Explorer's purpose is to help users style and render graphs easily witho
 * Customized tooltip content
 * Data filtering: Entity ID, Datetime, Degree
 
+Landing page
+![cover](/assets/cover.png)
+
+Upload data and select options to customize output graph
+![form](/assets/form.png)
+
+Brushable timeline to filter data to highlight
+![cover](/assets/timeline.png)
+
+Select an entity to show its connections
+![cover](/assets/entity.png)
+
 ### Development
 
 ```
