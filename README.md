@@ -6,14 +6,7 @@ It is a graph visualization tool built with React, Graphin, D3, and Ant Design. 
 
 Network Explorer's purpose is to help users style and render graphs easily without code through a UI by importing a dataset or connecting to a database.
 
-### Demo 1
-![alt text](https://github.com/dianaow/network-explorer/raw/master/assets/demo1.gif "Demo 1")
-
-### Demo 2
-![alt text](https://github.com/dianaow/network-explorer/raw/master/assets/demo2.gif "Demo 2")
-
 ### Features
-* Data import: CSV/JSON format, Postgresql database
 * Temporal visualization with a brushable timeline
 * Customized nodes and edges styling
 * Customized tooltip content
