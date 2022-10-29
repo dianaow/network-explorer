@@ -26,7 +26,8 @@ p {
 }
 
 #graphin-container {
-  height: 84%;
+  height: 82%;
+  max-height: 82%;
 }
 
 .graphin-core {

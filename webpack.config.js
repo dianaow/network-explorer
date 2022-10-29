@@ -8,10 +8,12 @@ module.exports = {
    filename: 'index.bundle.js'
  },
   // webpack 5 comes with devServer which loads in development mode
- devServer: {
-   port: 3000,
-   watchContentBase: true
- },
+  devServer:{
+    static: path.resolve(__dirname, 'src'),
+    port: 8080,
+    open: true,
+    hot: true
+  },
   // Rules of how webpack will take our files, complie & bundle them for the browser 
  module: {
    rules: [
@@ -19,7 +21,8 @@ module.exports = {
        test: /\.(js|jsx)$/,
        exclude: /nodeModules/,
        use: {
-         loader: 'babel-loader'
+         loader: 'babel-loader',
+         options: { presets: ['@babel/env','@babel/preset-react'] }
        }
      },
      {

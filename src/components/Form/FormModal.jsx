@@ -214,6 +214,7 @@ const FormModal = (props) => {
 
   const onFill_2 = () => {
     formRef.current.setFieldsValue({
+      ID: 'id',
       SOURCE: 'source',
       TARGET: 'target'
     });
@@ -229,7 +230,7 @@ const FormModal = (props) => {
       </Form.Item>
       <Modal
         title="Load Graph"
-        visible={state.visible}
+        open={state.visible}
         onCancel={handleCancel}
         footer={null}
       >
@@ -388,7 +389,12 @@ const FormModal = (props) => {
                 <Row>
                   <Col span={12}>
                     <div style={style}>
-                    <Form.Item name="ID" label="Entity ID">
+                    <Form.Item name="ID" label="Entity ID" rules={[
+                        {
+                          required: true,
+                          message: 'Please select column for ID',
+                        }
+                      ]}>
                       <Input type="textarea" />
                     </Form.Item>
                     </div>

@@ -1,4 +1,4 @@
-import React, {useState, useEffect, createRef, useContext} from 'react';
+import React, {useState, useRef, useEffect, createRef, useContext} from 'react';
 import Graphin, { Behaviors } from '@antv/graphin';
 import { Toolbar, Legend, Tooltip } from '@antv/graphin-components';
 import { ZoomOutOutlined, ZoomInOutlined } from '@ant-design/icons';
@@ -36,7 +36,8 @@ const App = () => {
   }) // graph is re-rendered each time setData is executed
 
   const graphinRef = createRef(null);
-  //const [graph, setGraph] = useState(graphinRef.current)
+  const prevFilterRef = useRef();
+  const prevModalRef = useRef();
 
   let { raw, DATE, NODE_COLOR, NODE_RADIUS, EDGE_COLOR, EDGE_WIDTH, COLOR_PALETTE, EDGE_TOOLTIP_TITLE, EDGE_TOOLTIP_DESCRIPTION, SHOW_NODE_LABEL, SHOW_EDGE_LABEL, SHOW_EDGE_DIRECTION} = modalState
   const { nodes, edges } = raw
@@ -70,8 +71,8 @@ const App = () => {
 
   // render graph after data upload
   useEffect(() => {
-    if(edges.length > 0){
-      //console.log('initial upload')
+    if(edges.length > 0 && prevFilterRef.current !== filters && prevModalRef.current !== modalState){
+      console.log('graph re-render')
       let widthAccessor, strokeAccessor, radiusAccessor, colorAccessor 
       let edge_width_DataArr = edges.map(d=>d.edgeWidth)
       let edge_color_DataArr = edges.map(d=>d.edgeColor)
@@ -174,6 +175,9 @@ const App = () => {
       const { graph } = graphinRef.current;
       graph.on("node:click", (e) => { setSelected(e.item._cfg.id) });
       graph.render();
+
+      prevFilterRef.current = filters 
+      prevModalRef.current = modalState 
     }
 
   }, [modalState, filters]);
@@ -235,7 +239,7 @@ const App = () => {
 
   // modify graph by showing/hiding connected nodes to clicked node (taking into account filtered time submitted by form, if any)
   useEffect(() => {
-    //console.log('selected')
+    if(selected.length === 0) return
     const { graph } = graphinRef.current;
 
     let newData = filterByDevices([selected], edges, filters.dates) 
@@ -423,9 +427,9 @@ const handleClick = (graphinContext, config) => {
           data={graphData}
           layout={{
             type:'gForce',
-            //maxIterations: 1200,
-            //tickInterval: 0.03,
-            //minEnergyThreshold: 0.02,
+            gpuEnabled: true,
+            preventOverlap: true,
+            linkCenter: true
           }}
           ref={graphinRef}
         >
